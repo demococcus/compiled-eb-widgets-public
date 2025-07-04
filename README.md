@@ -1,6 +1,6 @@
 # Widgets Experience Builder
 
-This repository contains the compiled version of Experience Builder widgets.
+This repository contains the compiled version of some Experience Builder widgets.
 
 
 ## How to compile the widgets
@@ -14,11 +14,11 @@ This repository contains the compiled version of Experience Builder widgets.
 3. The compiled versiopn will be generated in   
 **arcgis-experience-builder**/client/dist-prod/widgets/exp-builder-widgets
 
-## How to publish on GitHub
+## How to publish as static page (on GitHub)
 
-The compiled version of the widget needs to be hosted on a web server in order to use it with ArcgGIS Entreprise. In this example, I use GitHub's publishing service "Pages".
+The compiled version of the widget needs to be hosted on a web server as a static page. In this instance, I am using GitHub's "Pages".
 
-1. Upload the compiled code to the GitHib repo
+1. Upload the compiled code to the GitHub repo
 2. In the GitHib repo, go to "Settings" and then "Pages"
 3. Choose the branch and publish it as a page
 4. Note taht it takes about 10 minutes for the page to be activated
@@ -26,9 +26,9 @@ The compiled version of the widget needs to be hosted on a web server in order t
 ## How to publush the widget on ArcGIS Entreprise portal
 
 1. On the portal, choose "Content" and then "New item"
-2. Choose "Application" and "Experience builder widget"
+2. Choose "Application" and then "Experience builder widget"
 3. Enter the URL of the file manifest.json from the hosting service (GitHub Page)
-4. Choose a name for the widget and enter a description.
+4. Choose a name for the widget and enter a description
 5. Share the widget to a group on the portal (or make it public)
 6. The widget is now available in Experience Builder on ArcGIS Entreprise portal
 
