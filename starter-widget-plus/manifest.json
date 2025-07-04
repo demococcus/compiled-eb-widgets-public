@@ -1,0 +1,22 @@
+{
+  "name": "starter-widget-plus",
+  "label": "Starter Widget Plus",
+  "type": "widget",
+  "version": "2025.7.4",
+  "exbVersion": "1.14.0",
+  "author": "Georgi Gatin",
+  "description": "Starter widget Plus",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "defaultSize": {
+    "width": 250,
+    "height": 250
+  }
+}
