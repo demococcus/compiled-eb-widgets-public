@@ -11,7 +11,7 @@ This repository contains the compiled version of some Experience Builder widgets
 2. Run the following command:  
 `npm run build:prod`
 
-3. The compiled versiopn will be generated in   
+3. The compiled version will be generated in   
 **arcgis-experience-builder**/client/dist-prod/widgets/exp-builder-widgets
 
 ## How to publish as static page (on GitHub)
